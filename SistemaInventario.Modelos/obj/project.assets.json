@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SistemaInventarios.Utilidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SistemaInventarios.Utilidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaInventarios.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaInventarios.Utilidades/1.0.0": {
+      "type": "project",
+      "path": "../SistemaInventarios.Utilidades/SistemaInventarios.Utilidades.csproj",
+      "msbuildProject": "../SistemaInventarios.Utilidades/SistemaInventarios.Utilidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SistemaInventarios.Utilidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\YoelitoHM\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+      "projectName": "SistemaInventario.Modelos",
+      "projectPath": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+      "packagesPath": "C:\\Users\\YoelitoHM\\.nuget\\packages\\",
+      "outputPath": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\YoelitoHM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventarios.Utilidades\\SistemaInventarios.Utilidades.csproj": {
+              "projectPath": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventarios.Utilidades\\SistemaInventarios.Utilidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
