@@ -8,6 +8,7 @@ D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debu
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfo.cs
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CopyComplete
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.dll
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll

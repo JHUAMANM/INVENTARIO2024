@@ -13,12 +13,68 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\2f956516-00ac-4599-bb08-6eeef140ca22.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\2f956516-00ac-4599-bb08-6eeef140ca22.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\4e4b888a-8994-4986-a8a3-dbf2df6ef7d4.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\4e4b888a-8994-4986-a8a3-dbf2df6ef7d4.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\6cc03a39-8435-4bc8-bbf6-07426d064ad1.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\6cc03a39-8435-4bc8-bbf6-07426d064ad1.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\969ef202-7600-4bac-b091-f9619214a1ba.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\969ef202-7600-4bac-b091-f9619214a1ba.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\9dedfb38-af02-4059-9546-d74d19c14c91.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\9dedfb38-af02-4059-9546-d74d19c14c91.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\a219469b-a02d-42ef-b72f-f1e544de2068.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\a219469b-a02d-42ef-b72f-f1e544de2068.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\c2d0e8b6-f169-4462-9113-13cfe47cbbf7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\c2d0e8b6-f169-4462-9113-13cfe47cbbf7.JPG"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d60fca38-592c-4155-81a2-10d77227f748.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\d60fca38-592c-4155-81a2-10d77227f748.JPG"
+    },
+    {
       "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
+    },
+    {
       "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\usuario.js",
+      "PackagePath": "staticwebassets\\js\\usuario.js"
     },
     {
       "Id": "D:\\UDEMY PROYECTOS ASP CORE\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -61,7 +61,7 @@
 
     </div>
 </form>
-
+<!-- <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>-->
 @section Scripts{
     <partial name="_ValidationScriptsPartial"></partial>
 
@@ -80,7 +80,7 @@
                 $.each(data, function (key, value) {
                     if (value) {
                         var nombre = document.getElementById("nombre");
-                        swal("Error", "Nombre ya Existe", "error");
+                        Swal.fire("Error", "Nombre ya Existe", "error");
                         nombre.value = "";
                     }
                 });

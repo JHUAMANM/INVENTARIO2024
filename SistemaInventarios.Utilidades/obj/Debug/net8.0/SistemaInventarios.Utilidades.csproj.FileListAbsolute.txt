@@ -5,7 +5,9 @@ D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.AssemblyInfoInputs.cache
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.AssemblyInfo.cs
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.csproj.CoreCompileInputs.cache
+D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.sourcelink.json
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.dll
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\refint\SistemaInventarios.Utilidades.dll
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.pdb
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\ref\SistemaInventarios.Utilidades.dll
+D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventarios.Utilidades\obj\Debug\net8.0\SistemaInventarios.Utilidades.csproj.AssemblyReference.cache

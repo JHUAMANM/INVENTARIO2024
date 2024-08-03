@@ -10,6 +10,7 @@ D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.sourcelink.json
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.dll
 D:\UDEMY PROYECTOS ASP CORE\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\refint\SistemaInventario.AccesoDatos.dll
